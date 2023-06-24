@@ -7,3 +7,5 @@
 - addEventListener()
 - array.length
 - textContent
+
+Live demo: https://carrossel-de-revisoes.vercel.app/
